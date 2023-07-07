@@ -2,7 +2,7 @@
 
 Technologies Used: JSP, Spring Boot, MySQL
 
-                                                                    Admin:
+                                                            Admin:
 
       
 1. HomePage:
@@ -44,7 +44,7 @@ Technologies Used: JSP, Spring Boot, MySQL
     ![WhatsApp Image 2023-07-08 at 03 57 47](https://github.com/vipulmane6498/online-food-order/assets/113690721/5d6fbb9f-714f-4a48-9877-8791c9e7c2c2)
 
 
-                                                                      Customer:
+                                                  Customer:
 
 
 12. Customer Registration:
