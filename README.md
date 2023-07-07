@@ -1,6 +1,7 @@
 # online-food-order(CDAC Project.)
 
-Technologies: JSP, Spring Boot, Rest
+Technologies: JSP, Spring Boot, MySQL
+
                                                                     Admin:
 
       
