@@ -29,7 +29,7 @@ Technologies Used: JSP, Spring Boot, MySQL
    ![WhatsApp Image 2023-07-08 at 03 57 49](https://github.com/vipulmane6498/online-food-order/assets/113690721/dddd5343-2a83-4c6a-b3bb-0e854d0e3993)
 
 
-8. Admin ca add food items:
+8. Admin can add food items:
    ![WhatsApp Image 2023-07-08 at 03 57 47](https://github.com/vipulmane6498/online-food-order/assets/113690721/ccf90ad6-3614-49e9-88bd-d104d441f02c)
 
 9. Admin can update or delete food items:
