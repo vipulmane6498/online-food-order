@@ -4,6 +4,8 @@ Technologies Used: Front end: JSP
                    Back end: Spring Boot
                    DatabaseMySQL
 
+ERD: 
+
                                                             Admin:
 
       
