@@ -5,6 +5,7 @@ Technologies Used: Front end: JSP
                    DatabaseMySQL
 
 ERD: 
+![image](https://github.com/vipulmane6498/online-food-order/assets/113690721/c5a18021-ca23-4bb7-9f3e-6439ef7e6368)
 
                                                             Admin:
 
