@@ -1,7 +1,7 @@
 # online-food-order(CDAC Project.)
 
-Technologies Used: Front end: JSP
-                   Back end: Spring Boot
+Technologies Used: Front-end: JSP
+                   Back-end: Spring Boot
                    Database: MySQL
 
 Entity Relation Diagram(ERD): 
